@@ -4,5 +4,17 @@ this is my code
 jhsfhoduhsf gdjkl
 fdhuhgughf
 hfudghgg
+<<<<<<< HEAD
 qeipq   jhpi3ru
 uihgao
+=======
+
+uihgao
+cygucygucgy
+yufgyfyg
+
+njbnbekekekekek
+ekirfan
+xjgxlg
+mahi
+>>>>>>> 545e181bc50c8cd7c243c436313b54c2c454deb1
